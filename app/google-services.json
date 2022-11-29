@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270341727592",
+    "project_id": "onethoughtapp",
+    "storage_bucket": "onethoughtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270341727592:android:22422ee5ee710beb79e2dd",
+        "android_client_info": {
+          "package_name": "com.xperiencelabs.onethought"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270341727592-i8o8vdaphq23beg4f94gdedpdgd1ok57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xperiencelabs.onethought",
+            "certificate_hash": "fd31c965182cea5b09ad234809ce5455614e9070"
+          }
+        },
+        {
+          "client_id": "270341727592-kv00a08eirp6e38mt6iqc3staa9a649n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzA09ki1WwM2WD-zLDgYXI9D_SqUVZSzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270341727592-kv00a08eirp6e38mt6iqc3staa9a649n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
