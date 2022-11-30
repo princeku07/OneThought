@@ -1,4 +1,4 @@
-# One Thought <img width="60" align="center" src="https://github.com/princeku07/Krypto_Android_App/blob/UI/app/src/main/res/drawable/logo.png" />
+# One Thought <img width="60" align="center" src="https://github.com/princeku07/OneThought/blob/main/one_thought.png" />
 A social media app.
 
 
@@ -8,6 +8,7 @@ A social media app.
 - Jetpack Compose
 - Dependency Injection (Hilt)
 - Glide for image loading
+- Firebase,Firestore
  #### Architecture ####
 - Clean Architecture
 - MVVM
